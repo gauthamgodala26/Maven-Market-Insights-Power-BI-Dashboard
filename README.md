@@ -29,3 +29,7 @@ This Power BI dashboard delivers real-time, data-driven insights, helping busine
 ✅ Interactive & Intuitive – Stunning visuals, drill-throughs & dynamic KPIs
 
 💻 Tech Stack: Power BI | DAX | Data Modeling | Data Visualization
+
+🖼️ Snapshot of the dashboard: 
+
+![Power BI Desktop 03-04-2025 18_01_53](https://github.com/user-attachments/assets/1728e5bf-03e6-4cd4-b611-9fd8ecbaad59)
