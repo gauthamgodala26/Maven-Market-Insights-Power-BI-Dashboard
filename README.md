@@ -4,6 +4,8 @@
 
 Businesses lose up to 30% of potential revenue due to inefficient data analysis, delayed insights, and lack of real-time visibility into key performance metrics. With 80% of decision-makers relying on outdated or incomplete reports, companies struggle to identify high-growth opportunities, optimize sales strategies, and maximize profitability.
 
+----
+
 ✅ Solution:
 
 This Power BI dashboard delivers real-time, data-driven insights, helping businesses:
@@ -15,6 +17,8 @@ This Power BI dashboard delivers real-time, data-driven insights, helping busine
 🔹 Increase customer retention by 15% through targeted behavioral insights
 
 🔹 Enhance sales forecasting accuracy by 40%, reducing revenue volatility
+
+----
 
 
 🔥 Key Highlights:
@@ -29,7 +33,11 @@ This Power BI dashboard delivers real-time, data-driven insights, helping busine
 
 ✅ Interactive & Intuitive – Stunning visuals, drill-throughs & dynamic KPIs
 
+----
+
 💻 Tech Stack: Power BI | DAX | Data Modeling | Data Visualization
+
+----
 
 🖼️ Snapshot of the dashboard: 
 
