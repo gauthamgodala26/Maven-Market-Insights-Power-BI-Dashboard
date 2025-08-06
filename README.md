@@ -10,13 +10,13 @@ Businesses lose up to 30% of potential revenue due to inefficient data analysis,
 
 This Power BI dashboard delivers real-time, data-driven insights, helping businesses:
 
-> Improve decision-making speed by 50% with interactive analytics
+. Improve decision-making speed by 50% with interactive analytics
 
-> Identify top-performing products and optimize inventory to reduce waste by 20%
+. Identify top-performing products and optimize inventory to reduce waste by 20%
 
-> Increase customer retention by 15% through targeted behavioral insights
+. Increase customer retention by 15% through targeted behavioral insights
 
-> Enhance sales forecasting accuracy by 40%, reducing revenue volatility
+. Enhance sales forecasting accuracy by 40%, reducing revenue volatility
 
 ----
 
