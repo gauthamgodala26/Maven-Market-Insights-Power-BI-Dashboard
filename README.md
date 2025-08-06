@@ -1,12 +1,12 @@
-# 🚀 Maven Market Insights – Power BI Dashboard
+#  Maven Market Insights – Power BI Dashboard
 
-❗ Problem Statement:
+ Problem Statement:
 
 Businesses lose up to 30% of potential revenue due to inefficient data analysis, delayed insights, and lack of real-time visibility into key performance metrics. With 80% of decision-makers relying on outdated or incomplete reports, companies struggle to identify high-growth opportunities, optimize sales strategies, and maximize profitability.
 
 ----
 
-✅ Solution:
+ Solution:
 
 This Power BI dashboard delivers real-time, data-driven insights, helping businesses:
 
@@ -21,24 +21,24 @@ This Power BI dashboard delivers real-time, data-driven insights, helping busine
 ----
 
 
-🔥 Key Highlights:
+ Key Highlights:
 
-✅ Real-Time Sales Analytics – Track revenue, trends & regional performance
+. Real-Time Sales Analytics – Track revenue, trends & regional performance
 
-✅ Customer Intelligence – Decode buying patterns & retention insights
+. Customer Intelligence – Decode buying patterns & retention insights
 
-✅ Product Performance – Identify bestsellers & optimize inventory
+. Product Performance – Identify bestsellers & optimize inventory
 
-✅ Market Forecasting – Predict trends & uncover new opportunities
+. Market Forecasting – Predict trends & uncover new opportunities
 
-✅ Interactive & Intuitive – Stunning visuals, drill-throughs & dynamic KPIs
-
-----
-
-💻 Tech Stack: Power BI | DAX | Data Modeling | Data Visualization
+. Interactive & Intuitive – Stunning visuals, drill-throughs & dynamic KPIs
 
 ----
 
-🖼️ Snapshot of the dashboard: 
+ Tech Stack: Power BI | DAX | Data Modeling | Data Visualization
+
+----
+
+ Snapshot of the dashboard: 
 
 ![Power BI Desktop 03-04-2025 18_01_53](https://github.com/user-attachments/assets/1728e5bf-03e6-4cd4-b611-9fd8ecbaad59)
